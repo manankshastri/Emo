@@ -7,3 +7,8 @@ Have you ever wanted to make your text messages more expressive? This emojifier 
 <p><b>Emojifier-V1</b> : using word embeddings, we will use pretrained<a href="https://nlp.stanford.edu/projects/glove/"> 50-dimensional GloVe embeddings</a>.</p>
 <p><b>Emojifier-V2</b> : using LSTM</p>
 <hr>
+# Acknowledgments
+
+Thanks to Alison Darcy and the Woebot team for their advice on the creation of this assignment. Woebot is a chatbot friend that is ready to speak with you 24/7. As part of Woebot's technology, it uses word embeddings to understand the emotions of what you say. You can play with it by going to http://woebot.io
+
+<img src="images/woebot.png" style="width:600px;height:300px;">
