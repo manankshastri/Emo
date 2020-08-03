@@ -5,7 +5,7 @@ Have you ever wanted to make your text messages more expressive? This emojifier 
 </p>
 <hr>
 <p><b>Emojifier-V1</b> : using word embeddings, we will use pretrained<a href="https://nlp.stanford.edu/projects/glove/"> 50-dimensional GloVe embeddings</a>.</p>
-<p><b>Emojifier-V2</b> : using LSTM</p>
+<p><b>Emojifier-V2</b> : using Embedding Layer and LSTM in Keras</p>
 <hr>
 <h2>Acknowledgments</h2>
 
